@@ -1,0 +1,31 @@
+#diagramDiv {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+  }
+  
+  .gojs-Object {
+    padding: 10px;
+  }
+  
+  .gojs-TextBlock {
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  .diagram-container {
+    width: 100%;
+    height: 500px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+  }
+
+  .go-tooltip {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    border-radius: 4px;
+    pointer-events: none;
+  }
+  
+  .go-tooltip text {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  
