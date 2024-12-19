@@ -41,8 +41,8 @@ A React application built with TypeScript and GoJS that visualizes network relat
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/sunnyDev93/gojs
+cd gojs
 ```
 
 2. Install dependencies:
